@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Delius&family=Poetsen+One&display=swap');
 
 body {
-  background-image: url("https://cdn.mos.cms.futurecdn.net/HuGGeENt6kGyixe3hT9tnY.jpg");
+  background-image: url("https://i0.wp.com/picjumbo.com/wp-content/uploads/colorful-love-hearts-wallpaper-free-image.jpg?w=2210&quality=70");
   text-align: center;
   margin: auto;
    font-family: "Poetsen One", serif;
@@ -13,6 +13,7 @@ h1{
 }
 
 #myCanvas {
+  background-image: url("https://restlesspilgrim.net/blog/wp-content/uploads/2014/10/Date-Me.jpg")
   background-size: 600px 400px;
   border-radius: 30px;
   border: 5px solid white;
